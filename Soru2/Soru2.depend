@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1586428769 source:c:\users\emre\desktop\deneme_ilk\deneme_2\soru2\main.c
+	<stdio.h>
+	<stdlib.h>
+
